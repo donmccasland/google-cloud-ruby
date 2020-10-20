@@ -1,5 +1,11 @@
 # Release History
 
+### 1.23.1 / 2020-10-20
+
+#### Documentation
+
+* Update supported types for time partition type
+
 ### 1.23.0 / 2020-09-17
 
 #### Features
